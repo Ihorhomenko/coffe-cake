@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/coffe-cake/static/css/main.e94c0c73.css",
-    "main.js": "/coffe-cake/static/js/main.399635de.js",
+    "main.css": "/coffe-cake/static/css/main.d477ffe7.css",
+    "main.js": "/coffe-cake/static/js/main.a345f68d.js",
     "static/media/logo.png": "/coffe-cake/static/media/logo.ea49f7c7cae628817047.png",
     "index.html": "/coffe-cake/index.html",
-    "main.e94c0c73.css.map": "/coffe-cake/static/css/main.e94c0c73.css.map",
-    "main.399635de.js.map": "/coffe-cake/static/js/main.399635de.js.map"
+    "main.d477ffe7.css.map": "/coffe-cake/static/css/main.d477ffe7.css.map",
+    "main.a345f68d.js.map": "/coffe-cake/static/js/main.a345f68d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e94c0c73.css",
-    "static/js/main.399635de.js"
+    "static/css/main.d477ffe7.css",
+    "static/js/main.a345f68d.js"
   ]
 }
