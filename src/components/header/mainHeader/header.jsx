@@ -1,6 +1,10 @@
 import Container from "../container/container";
+import Nav from "../nav/nav";
+import IconsTel from "../iconsTel/iconsTel";
+
 import "./header.css"
 import logo from "../../../image/logo.png"
+
 
 const Header = () => {
     return (
@@ -16,7 +20,10 @@ const Header = () => {
                 </a>
 
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, nostrum.</p>
+                <Nav/>
+                
+                <IconsTel/>
+
 
             </div>
         </Container>
