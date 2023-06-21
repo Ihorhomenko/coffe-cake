@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/coffe-cake/static/css/main.d477ffe7.css",
-    "main.js": "/coffe-cake/static/js/main.a345f68d.js",
+    "main.css": "/coffe-cake/static/css/main.bdfd5602.css",
+    "main.js": "/coffe-cake/static/js/main.c2f893c0.js",
+    "static/media/eklers.jpeg": "/coffe-cake/static/media/eklers.0c8ac1caccd4153f27f5.jpeg",
+    "static/media/macaruns.jpeg": "/coffe-cake/static/media/macaruns.4617c878a5d869a3a480.jpeg",
+    "static/media/muscat.jpeg": "/coffe-cake/static/media/muscat.237a42d2ec9c726db79c.jpeg",
+    "static/media/photo1687287726.jpeg": "/coffe-cake/static/media/photo1687287726.2189ca0ddf9613843d6e.jpeg",
     "static/media/logo.png": "/coffe-cake/static/media/logo.ea49f7c7cae628817047.png",
     "index.html": "/coffe-cake/index.html",
-    "main.d477ffe7.css.map": "/coffe-cake/static/css/main.d477ffe7.css.map",
-    "main.a345f68d.js.map": "/coffe-cake/static/js/main.a345f68d.js.map"
+    "main.bdfd5602.css.map": "/coffe-cake/static/css/main.bdfd5602.css.map",
+    "main.c2f893c0.js.map": "/coffe-cake/static/js/main.c2f893c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d477ffe7.css",
-    "static/js/main.a345f68d.js"
+    "static/css/main.bdfd5602.css",
+    "static/js/main.c2f893c0.js"
   ]
 }
