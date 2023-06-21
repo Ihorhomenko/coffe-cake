@@ -1,15 +1,42 @@
 .cake{
-  margin-left: auto;
-  margin-left: auto;
-  background-image: url("../../../public/photo1687287726.jpeg");
+  background-image: url("../../image/photo1687287726.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 75vh;
 }
 
+.hero_title-text{
+  font-family: 'Poppins', sans-serif;
+  display: block;
+  margin-top: 0;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+.hero_title{
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
 .swiper-slide img {
-    display: block;
-    object-fit: cover;
-    width: 100%;
-    height: 75vh;
+  display: block;
+  object-fit: cover;
+  width: 100%;
+  height: 75vh;
   }
+
+.hero_title-but{
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: rgb(243, 99, 214);
+  transition: all 250ms linear;
+}
+.hero_title-but:hover{
+  background-color: transparent;
+  border: 1px solid aliceblue;
+  border-radius: 10px;
+}
