@@ -1,14 +1,15 @@
+import { NavLink } from "react-router-dom";
 import "./nav.css"
 
 const Nav = () => {
     return (
-        <ul className="nav">
-            <li className="nav_item">Макаронс</li>
-            <li className="nav_item">Тортики</li>
-            <li className="nav_item">Еклери</li>
-            <li className="nav_item">Мусові десерти</li>
-            <li className="nav_item">Контакти</li>
-        </ul>
+        <nav className="nav">
+            <NavLink to="/cofee-cake/cake" className="nav_item">Тортики</NavLink>
+            <NavLink to="/cofee-cake/macaruns" className="nav_item">Макаронс</NavLink>
+            <NavLink to="/cofee-cake/eklers" className="nav_item">Еклери</NavLink>
+            <NavLink to="/cofee-cake/muskats" className="nav_item">Мусові десерти</NavLink>
+            <NavLink to="/cofee-cake/contacts" className="nav_item">Контакти</NavLink>
+        </nav>
     )
 }
 

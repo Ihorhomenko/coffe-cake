@@ -1,0 +1,67 @@
+.cake{
+  background-image: url("../../../image/cake-min.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+
+.macaruns{
+  background-image: url("../../../image/food-macaron-colors-sweets-891789-min.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+.ecllers {
+  background-image: url("../../../image/eklers-min.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+
+.muscat{
+  background-image: url("../../../image/muscat.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+}
+
+.hero_title-text{
+  font-family: 'Poppins', sans-serif;
+  display: block;
+  margin-top: 0;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+.hero_title{
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 200px;
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+  width: 100%;
+  height: 75vh;
+  }
+
+.hero_title-but{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  width: 150px;
+  height: 40px;
+  text-decoration: none;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+  background-color: rgb(243, 99, 214);
+  transition: all 250ms linear;
+}
+.hero_title-but:hover{
+  background-color: transparent;
+  border: 1px solid aliceblue;
+  border-radius: 10px;
+}

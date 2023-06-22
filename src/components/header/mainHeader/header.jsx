@@ -1,6 +1,7 @@
 import Container from "../container/container";
 import Nav from "../nav/nav";
 import IconsTel from "../iconsTel/iconsTel";
+import { NavLink } from "react-router-dom";
 
 import "./header.css"
 import logo from "../../../image/logo.png"
@@ -12,12 +13,14 @@ const Header = () => {
             <div className="header">
                 
 
-                <a href="./#" className="logo">
+                <NavLink to="/coffe-cake">
                     <img 
                     src={logo}
                     alt="logo"
                     className="logoImg"/>
-                </a>
+                </NavLink>
+                    
+                
 
 
                 <Nav/>
