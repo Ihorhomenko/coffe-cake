@@ -1,0 +1,21 @@
+.titlePage{
+    background-image: url("../../../image/CakePageTitle-min.jpg");
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: 0.5;
+}
+
+.pageTitle {
+    margin-top: 0;
+    text-align: center;
+    padding-top: 60px;
+    color: black;
+}
+
+.blur {
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(3px);
+    height: 100%;
+  }
