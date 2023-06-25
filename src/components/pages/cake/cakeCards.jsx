@@ -1,22 +1,34 @@
-const CakeCards = () => {
-    return (
-        <ul className="cards">
+import { nanoid } from 'nanoid'
+import "./cake.css"
 
-            {/* {cakes.map((imgUrl, text, price) => {
-                <li>
+const CakeCards = ({cakes}) => {
+    return (
+        <div className='cards-continer'> 
+            <ul className="cards">
+
+            {cakes.map((el) => {
+                return (<li className='cards-item' key={nanoid()}>
                     <div className="imgCard">
-                        <img src= {imgUrl} alt="" />
+                        {/* <img src= {el.imgUrl} alt="" /> */}
+                        <div className='cards-img'>
+                            тут має бути фото торитка
+                        </div>
                     </div>
-                    <div className="text">
-                        <p>{text}</p>
+
+                    <h3 className='title'>{el.title}</h3>
+
+                    <p className="price">{el.price}</p>
+
+                    <div className="text-conteiner">
+                        <p className='text'>{el.text}</p>
                     </div>
-                    <div className="price">
-                        <p>{price}</p>
-                    </div>
-                </li>
-            } )} */}
-            
-        </ul>
+                    
+                </li>)
+            } )}
+
+            </ul>
+        </div>
+        
     )
 }
 
