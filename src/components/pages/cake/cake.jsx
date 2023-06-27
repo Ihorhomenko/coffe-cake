@@ -1,4 +1,4 @@
-import CakeCards from "./cakeCards"
+import SweetsCards from "../../sweetsCards/sweetsCards"
 import cakes from "./cakes.json"
 import "./cake.css"
 
@@ -10,7 +10,7 @@ const Cake = () => {
                     <h2 className="pageTitle">Торти</h2>
                 </div>
             </div>
-            <CakeCards cakes={cakes}/>
+            <SweetsCards sweets={cakes}/>
 
         </div>
     )

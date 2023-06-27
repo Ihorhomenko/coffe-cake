@@ -1,6 +1,9 @@
+import SweetsCards from "components/sweetsCards/sweetsCards"
+import cakes from "../cake/cakes.json"
+
 const Macaruns = () => {
     return (
-        <p>тут будуть Macaruns</p>
+        <SweetsCards sweets={cakes}/>
     )
 }
 

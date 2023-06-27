@@ -1,12 +1,12 @@
 import { nanoid } from 'nanoid'
-import "./cake.css"
+import "./sweetsCards.css"
 
-const CakeCards = ({cakes}) => {
+const SweetsCards = ({sweets}) => {
     return (
         <div className='cards-continer'> 
             <ul className="cards">
 
-            {cakes.map((el) => {
+            {sweets.map((el) => {
                 return (<li className='cards-item' key={nanoid()}>
                     <div className="imgCard">
                         {/* <img src= {el.imgUrl} alt="" /> */}
@@ -15,12 +15,12 @@ const CakeCards = ({cakes}) => {
                         </div>
                     </div>
 
-                    <h3 className='title'>{el.title}</h3>
+                    <h3 className='cards-title'>{el.title}</h3>
 
-                    <p className="price">{el.price}</p>
+                    <p className="cards-price">{el.price}</p>
 
-                    <div className="text-conteiner">
-                        <p className='text'>{el.text}</p>
+                    <div className="cards-text-conteiner">
+                        <p className='cards-text'>{el.text}</p>
                     </div>
                     
                 </li>)
@@ -32,4 +32,4 @@ const CakeCards = ({cakes}) => {
     )
 }
 
-export default CakeCards
+export default SweetsCards
