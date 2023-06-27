@@ -1,0 +1,34 @@
+.hero-macarun-conteiner{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+    width: 100%;
+
+
+}
+
+.hero-macarun-img{
+    display: block;
+    width: 550px;
+    height: 400px;
+    margin-right: 130px;
+    transform: rotate(-45deg);
+    scale: 0.7;
+    border-radius: 15px;
+    transition: all 550ms linear;
+}
+
+.hero-macarun-content{
+    width: 450px;
+    text-align: left;
+}
+
+.hero-macarun-content h2{
+    color: rgb(238, 73, 137);
+    font-size: 36px;
+}
+
+.hero-macarun-conteiner:hover .hero-macarun-img{
+    transform: rotate(0deg);
+    scale: 1
+}
