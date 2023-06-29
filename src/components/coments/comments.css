@@ -1,0 +1,10 @@
+.comments-container {
+    background-color: rgb(251, 147, 50, 0.3);
+    display: flex;
+    padding: 120px 0px 120px 135px;
+}
+
+.about-text-title__selected{
+    color: #fb9333;
+}
+
