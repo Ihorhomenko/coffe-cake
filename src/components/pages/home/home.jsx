@@ -2,6 +2,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { NavLink } from "react-router-dom";
 import HeroMacarun from "./heroMacarun/heroMacaruns";
 import Comments from "components/coments/coments";
+import Footer from "components/footer/footer";
 // import cake from "../../image/photo1687287726.jpeg"
 // import macaruns from "../../image/macaruns.jpeg"
 // import ecllers from "../../image/eklers.jpeg"
@@ -74,6 +75,7 @@ const Hero = () => {
       </Swiper>
       <HeroMacarun/>
       <Comments/>
+      <Footer/>
     </>
     )
 }

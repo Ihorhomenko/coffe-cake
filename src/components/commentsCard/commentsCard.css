@@ -5,11 +5,11 @@
 .comment-card-item{
     list-style: none;
     width: 270px;
-    height: 400px;
+
     background-color: #ffffff;
     border-radius: 8px;
     position: relative;
-    padding-top: 120px;
+    padding: 120px 24px 24px 24px;
     margin-right: 30px;
 }
 .comment-card-item:last-child{
@@ -24,4 +24,20 @@
     top: -40px;
     left: 25px;
     border-radius: 50%;
+}
+
+.comment-card-name{
+    color: #2B2B2B;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.comment-card-old{
+    color: #999999;
+    font-size: 14px;
+}
+
+.comment-card-text{
+    color: #575757;
+    font-size: 16px;
 }

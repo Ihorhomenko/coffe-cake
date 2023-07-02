@@ -1,6 +1,7 @@
 .hero-macarun-conteiner{
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 50px 0px;
     width: 100%;
 

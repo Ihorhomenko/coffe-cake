@@ -2,9 +2,25 @@
     background-color: rgb(251, 147, 50, 0.3);
     display: flex;
     padding: 120px 0px 120px 135px;
+    align-items: center;
 }
 
 .about-text-title__selected{
     color: #fb9333;
+}
+
+.btn-add-comment{
+    background-color: #fb9333;
+    color: #ffffff;
+    padding: 10px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    transition: all 350ms linear;
+}
+.btn-add-comment:hover {
+    background-color: inherit;
+    color: #fb9333;
+    outline: 1px solid #fb9333;
 }
 
