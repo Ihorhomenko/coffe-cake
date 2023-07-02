@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/coffe-cake/static/css/main.34fab6fa.css",
-    "main.js": "/coffe-cake/static/js/main.82a14c16.js",
+    "main.css": "/coffe-cake/static/css/main.596a16de.css",
+    "main.js": "/coffe-cake/static/js/main.2bdda05f.js",
     "static/media/food-macaron-colors-sweets-891789-min.jpeg": "/coffe-cake/static/media/food-macaron-colors-sweets-891789-min.b8e1abe4c0096b6b7ead.jpeg",
     "static/media/cake-min.jpeg": "/coffe-cake/static/media/cake-min.e668a40dac46906ace24.jpeg",
     "static/media/eklers-min.jpeg": "/coffe-cake/static/media/eklers-min.f0b43d9e2e1a685c37c4.jpeg",
@@ -10,11 +10,11 @@
     "static/media/heroMacarun.jpeg": "/coffe-cake/static/media/heroMacarun.c199d42739a624e3da71.jpeg",
     "static/media/logo.png": "/coffe-cake/static/media/logo.ea49f7c7cae628817047.png",
     "index.html": "/coffe-cake/index.html",
-    "main.34fab6fa.css.map": "/coffe-cake/static/css/main.34fab6fa.css.map",
-    "main.82a14c16.js.map": "/coffe-cake/static/js/main.82a14c16.js.map"
+    "main.596a16de.css.map": "/coffe-cake/static/css/main.596a16de.css.map",
+    "main.2bdda05f.js.map": "/coffe-cake/static/js/main.2bdda05f.js.map"
   },
   "entrypoints": [
-    "static/css/main.34fab6fa.css",
-    "static/js/main.82a14c16.js"
+    "static/css/main.596a16de.css",
+    "static/js/main.2bdda05f.js"
   ]
 }
