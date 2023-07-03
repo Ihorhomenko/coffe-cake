@@ -1,0 +1,32 @@
+.adress-title{
+    text-align: center;
+    color: #fb9333;
+}
+
+.adress-list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.adress-item{
+    margin-right: 10px;
+    width: 360px;
+}
+.adress-item:last-child(){
+    margin-right: 10px;
+}
+
+.adress-item a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    color: #575757;
+}
+
+.adress-img{
+    height: 520px;
+    background-color: rgba(251, 147, 51, 0.4);
+    border-radius: 10px;
+}

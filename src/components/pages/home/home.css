@@ -2,27 +2,27 @@
   background-image: url("../../../image/cake-min.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 75vh;
+  height: 60vh;
 }
 
 .macaruns{
   background-image: url("../../../image/food-macaron-colors-sweets-891789-min.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 75vh;
+  height: 60vh;
 }
 .ecllers {
   background-image: url("../../../image/eklers-min.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 75vh;
+  height: 60vh;
 }
 
 .muscat{
   background-image: url("../../../image/muscat.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 75vh;
+  height: 60vh;
 }
 
 .hero_title-text{
@@ -35,7 +35,7 @@
 }
 .hero_title{
   text-align: center;
-  padding-top: 250px;
+  padding-top: 150px;
   padding-bottom: 200px;
 }
 
@@ -43,7 +43,6 @@
   display: block;
   object-fit: cover;
   width: 100%;
-  height: 75vh;
   }
 
 .hero_title-but{
