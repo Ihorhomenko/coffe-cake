@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/coffe-cake/static/css/main.c696a46c.css",
-    "main.js": "/coffe-cake/static/js/main.31348076.js",
+    "main.css": "/coffe-cake/static/css/main.aa05eb44.css",
+    "main.js": "/coffe-cake/static/js/main.e6b9832a.js",
     "static/media/food-macaron-colors-sweets-891789-min.jpeg": "/coffe-cake/static/media/food-macaron-colors-sweets-891789-min.b8e1abe4c0096b6b7ead.jpeg",
     "static/media/cake-min.jpeg": "/coffe-cake/static/media/cake-min.e668a40dac46906ace24.jpeg",
+    "static/media/vilyams-min.jpeg": "/coffe-cake/static/media/vilyams-min.9b0b6fbdef3cc5f761bb.jpeg",
+    "static/media/holosivskiy-min.jpeg": "/coffe-cake/static/media/holosivskiy-min.c0c352f43fbdf48ddca2.jpeg",
     "static/media/eklers-min.jpeg": "/coffe-cake/static/media/eklers-min.f0b43d9e2e1a685c37c4.jpeg",
     "static/media/CakePageTitle-min.jpg": "/coffe-cake/static/media/CakePageTitle-min.d12c66bd5b290515c88e.jpg",
+    "static/media/maksimovicha-min.jpeg": "/coffe-cake/static/media/maksimovicha-min.fec3e1d953797a64f335.jpeg",
     "static/media/muscat.jpeg": "/coffe-cake/static/media/muscat.237a42d2ec9c726db79c.jpeg",
     "static/media/heroMacarun.jpeg": "/coffe-cake/static/media/heroMacarun.c199d42739a624e3da71.jpeg",
     "static/media/logo.png": "/coffe-cake/static/media/logo.ea49f7c7cae628817047.png",
     "index.html": "/coffe-cake/index.html",
-    "main.c696a46c.css.map": "/coffe-cake/static/css/main.c696a46c.css.map",
-    "main.31348076.js.map": "/coffe-cake/static/js/main.31348076.js.map"
+    "main.aa05eb44.css.map": "/coffe-cake/static/css/main.aa05eb44.css.map",
+    "main.e6b9832a.js.map": "/coffe-cake/static/js/main.e6b9832a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c696a46c.css",
-    "static/js/main.31348076.js"
+    "static/css/main.aa05eb44.css",
+    "static/js/main.e6b9832a.js"
   ]
 }
