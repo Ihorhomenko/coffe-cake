@@ -1,0 +1,34 @@
+.gallary-container{
+    padding-top: 50px;
+    align-items: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gallary-products-title{
+    text-align: center;
+    color: #fb9333;
+    margin-top: 0;
+}
+
+.gallary-products-list{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: -1px;
+}
+
+.gallary-producrs-item{
+    width: calc((100% - 8 * 1px) / 4);
+    margin: 1px;
+}
+
+.gallary-products-img{
+    width: 100%;
+    height: 300px;
+    background-color: rgba(251, 147, 51, 0.4);
+    
+}

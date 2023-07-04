@@ -1,5 +1,5 @@
 import "./heroMacaruns.css"
-import heroImg from "../../../../image/heroMacarun.jpeg"
+import heroImg from "../../../../image/heroMacarun-min.jpeg"
 
 const HeroMacarun = () => {
     return (

@@ -4,6 +4,7 @@ import HeroMacarun from "./heroMacarun/heroMacaruns";
 import Comments from "components/coments/coments";
 import Footer from "components/footer/footer";
 import Adress from "components/adress/adress";
+import GallaryProducts from "components/gallaryProducts/gallaryProducts";
 // import cake from "../../image/photo1687287726.jpeg"
 // import macaruns from "../../image/macaruns.jpeg"
 // import ecllers from "../../image/eklers.jpeg"
@@ -76,6 +77,7 @@ const Hero = () => {
       </Swiper>
       <HeroMacarun/>
       <Comments/>
+      <GallaryProducts/>
       <Adress/>
       <Footer/>
     </>

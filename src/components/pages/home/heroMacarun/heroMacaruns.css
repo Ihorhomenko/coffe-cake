@@ -9,11 +9,10 @@
 }
 
 .hero-macarun-img{
-    display: block;
     width: 550px;
     height: 400px;
     margin-right: 130px;
-    transform: rotate(-45deg);
+    transform: translateX(-150%);
     scale: 0.7;
     border-radius: 15px;
     transition: all 550ms linear;
@@ -30,6 +29,6 @@
 }
 
 .hero-macarun-conteiner:hover .hero-macarun-img{
-    transform: rotate(0deg);
-    scale: 1
+    transform: translateX(0%);
+    scale: 1;
 }
