@@ -37,7 +37,7 @@ const Hero = () => {
         className="mySwiper"
       >
         <SwiperSlide>
-          <div className="cake">
+          <div className="swiper-swets-container cake">
             <div className="hero_title">
               <h2 className="hero_title-text">Неперевершений смак тільки у нас</h2>
               <p className="hero_title-text">Торти на замовлення</p>
@@ -48,7 +48,7 @@ const Hero = () => {
           
         </SwiperSlide>
         <SwiperSlide>
-        <div className="macaruns">
+        <div className="swiper-swets-container macaruns">
             <div className="hero_title">
               <p className="hero_title-text">Торти на замовлення</p>
               <NavLink to="/cofee-cake/macaruns" className="hero_title-but">ЗАМОВИТИ</NavLink>
@@ -57,7 +57,7 @@ const Hero = () => {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className="ecllers">
+        <div className="swiper-swets-container ecllers">
             <div className="hero_title">
               <p className="hero_title-text">Торти на замовлення</p>
               <NavLink to="/cofee-cake/eklers" className="hero_title-but">ЗАМОВИТИ</NavLink>
@@ -66,10 +66,10 @@ const Hero = () => {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className="muscat">
+        <div className="swiper-swets-container muscat">
             <div className="hero_title">
               <p className="hero_title-text">Торти на замовлення</p>
-              <NavLink to="/cofee-cake/muskats" className="hero_title-but">ЗАМОВИТИ</NavLink>
+              <NavLink to="/cofee-cake/muskats" className="hero_title-but">замовити</NavLink>
               {/* <button type="button" className="hero_title-but" onClick={handleClicMuscat}>ЗАМОВИТИ</button> */}
             </div>
           </div>

@@ -1,42 +1,78 @@
-.cake{
-  background-image: url("../../../image/cake-min.jpeg");
+@media screen and (max-width: 480px) {
+  .hero_title{
+    padding-top: 100px;
+    padding-bottom: 70px;
+  }
+
+  .swiper-swets-container {
+    height: 40vh;
+  }
+
+  .hero_title-text{
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .hero_title-but{
+    width: 75px;
+    height: 20px;
+    font-size: 12px;
+    padding: 2px 5px;
+
+  }
+}
+
+@media screen and (min-width: 481px) {
+  .hero_title{
+    padding-top: 150px;
+    padding-bottom: 200px;
+  }
+  .swiper-swets-container {
+    height: 60vh;
+  }
+  .hero_title-text{
+    font-size: 30px;
+    font-weight: 700;
+  }
+
+  .hero_title-but{
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+  }
+}
+
+.swiper-swets-container{
   background-size: cover;
   background-repeat: no-repeat;
-  height: 60vh;
+}
+
+.cake{
+  background-image: url("../../../image/cake-min.jpeg");
 }
 
 .macaruns{
   background-image: url("../../../image/food-macaron-colors-sweets-891789-min.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 60vh;
 }
 .ecllers {
   background-image: url("../../../image/eklers-min.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 60vh;
 }
 
 .muscat{
   background-image: url("../../../image/muscat.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 60vh;
+}
+
+
+.hero_title{
+  text-align: center;
+  align-items: center;
 }
 
 .hero_title-text{
   font-family: 'Poppins', sans-serif;
   display: block;
   margin-top: 0;
-  font-size: 30px;
-  font-weight: 700;
   color: white;
-}
-.hero_title{
-  text-align: center;
-  padding-top: 150px;
-  padding-bottom: 200px;
 }
 
 .swiper-slide img {
@@ -49,8 +85,6 @@
   margin-left: auto;
   margin-right: auto;
   display: flex;
-  width: 150px;
-  height: 40px;
   text-decoration: none;
   border-radius: 10px;
   align-items: center;
@@ -58,7 +92,9 @@
   color: aliceblue;
   background-color: rgb(243, 99, 214);
   transition: all 250ms linear;
+  text-transform: uppercase;
 }
+
 .hero_title-but:hover{
   background-color: transparent;
   border: 1px solid aliceblue;

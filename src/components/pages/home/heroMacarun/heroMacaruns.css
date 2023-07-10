@@ -1,11 +1,21 @@
+@media screen and (max-width: 480px) {
+    .hero-macarun-conteiner{
+        display: block;
+    }
+}
+
+@media screen and (min-width: 481px) {
+    .hero-macarun-conteiner{
+        display: flex;
+    }
+}
+
 .hero-macarun-conteiner{
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     padding: 50px 0px;
     width: 100%;
-
-
 }
 
 .hero-macarun-img{
@@ -28,7 +38,4 @@
     font-size: 36px;
 }
 
-.hero-macarun-conteiner:hover .hero-macarun-img{
-    transform: translateX(0%);
-    scale: 1;
-}
+
