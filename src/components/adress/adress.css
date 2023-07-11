@@ -1,3 +1,26 @@
+@media screen and (max-width: 480px) {
+    .adress-list{
+        display: block;
+    }
+
+    .adress-img{
+        width: 360px;
+        height: 460px;
+    }
+}
+
+@media screen and (min-width: 481px) {
+    .adress-list{
+        display: flex;
+        justify-content: center;
+    }
+
+    .adress-img{
+        width: 360px;
+        height: 520px;
+    }
+}
+
 .adress-title{
     text-align: center;
     color: #fb9333;
@@ -5,15 +28,13 @@
 
 .adress-list{
     list-style: none;
-    display: flex;
-    justify-content: center;
 }
 
 .adress-item{
     margin-right: 10px;
 }
 .adress-item:last-child(){
-    margin-right: 10px;
+    margin-right: 0;
 }
 
 .adress-item a{
@@ -26,8 +47,6 @@
 
 .adress-img{
     display: block;
-    width: 360px;
-    height: 520px;
     border-radius: 10px;
 }
 
