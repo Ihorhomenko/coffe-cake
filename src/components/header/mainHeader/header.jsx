@@ -1,5 +1,6 @@
 import Container from "../container/container";
 import Nav from "../nav/nav";
+import MobileMenu from "components/mobilMenu/mobileMenu";
 import IconsTel from "../iconsTel/iconsTel";
 import { NavLink } from "react-router-dom";
 
@@ -24,6 +25,7 @@ const Header = () => {
 
 
                 <Nav/>
+                <MobileMenu/>
                 
                 <IconsTel/>
 
