@@ -10,6 +10,7 @@ const Nav = () => {
             <NavLink to="/cofee-cake/muskats" className="nav_item">Мусові десерти</NavLink>
             <NavLink to="/cofee-cake/contacts" className="nav_item">Контакти</NavLink>
         </nav>
+        
     )
 }
 

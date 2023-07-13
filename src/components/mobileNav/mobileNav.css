@@ -1,0 +1,9 @@
+.nav-mobile {
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+}
+
+.nav-mobile_item {
+    display: block;
+}

@@ -8,25 +8,25 @@
     .nav {
         display: flex;
     }
+
+    .nav_item {
+        margin-right: 20px;
+        color: aliceblue;
+        text-transform: uppercase;
+        text-decoration: none;
+        transition: all 250ms linear;
+    }
+    
+    .nav_item:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+    .active {
+        text-decoration: underline;
+    }
 }
 
 .nav {
     list-style: none;
-}
-
-.nav_item {
-    margin-right: 20px;
-    color: aliceblue;
-    text-transform: uppercase;
-    text-decoration: none;
-    transition: all 250ms linear;
-}
-
-.nav_item:hover{
-    text-decoration: underline;
-    cursor: pointer;
-}
-
-.active {
-    text-decoration: underline;
 }
