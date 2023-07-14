@@ -12,20 +12,45 @@
 
 .mobile-menu-container{
     position: absolute;
-    left: 0;
+    padding: 15px 30px 15px 15px;
+    right: 0;
     top: 0;
     height: 100vh;
-    width: 100%;
-    background-color: aqua;
+    width: 300px;
+    background-color: rgba(172, 55, 55, 2);
     z-index: 10;
-    opacity: 1;
 }
 .but-menu{
     background-color: inherit;
     border: none;
     color: aliceblue;
+    font-size: 18px;
 }
 .react-icons-menu{
     width: 20px;
     height: 20px;
+}
+
+.nav-mobile {
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    width: 100%;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+.nav-mobile_item {
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    text-transform: uppercase;
+    font-family: 'Sansita Swashed', cursive;
+    color: azure;
+    font-weight: 700;
+    margin-bottom: 10px; 
+}
+
+
+.nav-mobile_item.tel {
+    margin-top: 30px;
 }

@@ -6,6 +6,7 @@ import Muscats from "./pages/muskats/muskats";
 import Contacts from "./pages/contacts/contacts";
 import Eklers from "./pages/eklers/eklers";
 import { Routes, Route } from "react-router-dom";
+import Footer from "./footer/footer";
 
 export const App = () => {
   return (
@@ -19,10 +20,8 @@ export const App = () => {
           <Route path="/cofee-cake/muskats" element={<Muscats/>}/>
           <Route path="/cofee-cake/eklers" element={<Eklers/>}/>
           <Route path="/cofee-cake/contacts" element={<Contacts/>}/>
-
-
         </Routes>
-      
+      <Footer/>
     </>
     
   );

@@ -20,6 +20,10 @@
     padding: 2px 5px;
 
   }
+
+  .mySwiper{
+    z-index: -1;
+  }
 }
 
 @media screen and (min-width: 481px) {
@@ -100,3 +104,4 @@
   border: 1px solid aliceblue;
   border-radius: 10px;
 }
+
