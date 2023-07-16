@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/coffe-cake/static/css/main.f4364fcf.css",
-    "main.js": "/coffe-cake/static/js/main.ea4535fa.js",
-    "static/media/food-macaron-colors-sweets-891789-min.jpeg": "/coffe-cake/static/media/food-macaron-colors-sweets-891789-min.b8e1abe4c0096b6b7ead.jpeg",
+    "main.css": "/coffe-cake/static/css/main.07b88530.css",
+    "main.js": "/coffe-cake/static/js/main.8704a303.js",
     "static/media/3g-min.jpeg": "/coffe-cake/static/media/3g-min.5eec53a39dc0492fd6b2.jpeg",
-    "static/media/cake-min.jpeg": "/coffe-cake/static/media/cake-min.e668a40dac46906ace24.jpeg",
     "static/media/4g-min.jpeg": "/coffe-cake/static/media/4g-min.7eecb714260c296cf5c2.jpeg",
     "static/media/2g-min.jpeg": "/coffe-cake/static/media/2g-min.6bf56c90b29900c8b088.jpeg",
     "static/media/vilyams-min.jpeg": "/coffe-cake/static/media/vilyams-min.9b0b6fbdef3cc5f761bb.jpeg",
@@ -13,19 +11,21 @@
     "static/media/8g-min.jpeg": "/coffe-cake/static/media/8g-min.cb64296d967a40cefd6e.jpeg",
     "static/media/holosivskiy-min.jpeg": "/coffe-cake/static/media/holosivskiy-min.c0c352f43fbdf48ddca2.jpeg",
     "static/media/6g-min.jpeg": "/coffe-cake/static/media/6g-min.1e88cd3dd88de815723e.jpeg",
-    "static/media/eklers-min.jpeg": "/coffe-cake/static/media/eklers-min.f0b43d9e2e1a685c37c4.jpeg",
     "static/media/heroMacarun-min.jpeg": "/coffe-cake/static/media/heroMacarun-min.e6b3725062927089f5a8.jpeg",
     "static/media/CakePageTitle-min.jpg": "/coffe-cake/static/media/CakePageTitle-min.d12c66bd5b290515c88e.jpg",
+    "static/media/macarons-min.jpg": "/coffe-cake/static/media/macarons-min.48992a2418d03e7a6b57.jpg",
     "static/media/maksimovicha-min.jpeg": "/coffe-cake/static/media/maksimovicha-min.fec3e1d953797a64f335.jpeg",
     "static/media/7g-min.jpeg": "/coffe-cake/static/media/7g-min.f3e57406b679f189273a.jpeg",
-    "static/media/muscat.jpeg": "/coffe-cake/static/media/muscat.237a42d2ec9c726db79c.jpeg",
+    "static/media/eklers-min.jpg": "/coffe-cake/static/media/eklers-min.84d0b7636daa4c4dfd4d.jpg",
+    "static/media/cake-min.jpg": "/coffe-cake/static/media/cake-min.d23b82851d61637a0df3.jpg",
+    "static/media/muskats-min.jpg": "/coffe-cake/static/media/muskats-min.6665fc7096af71cd3fef.jpg",
     "static/media/logo.png": "/coffe-cake/static/media/logo.ea49f7c7cae628817047.png",
     "index.html": "/coffe-cake/index.html",
-    "main.f4364fcf.css.map": "/coffe-cake/static/css/main.f4364fcf.css.map",
-    "main.ea4535fa.js.map": "/coffe-cake/static/js/main.ea4535fa.js.map"
+    "main.07b88530.css.map": "/coffe-cake/static/css/main.07b88530.css.map",
+    "main.8704a303.js.map": "/coffe-cake/static/js/main.8704a303.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4364fcf.css",
-    "static/js/main.ea4535fa.js"
+    "static/css/main.07b88530.css",
+    "static/js/main.8704a303.js"
   ]
 }
