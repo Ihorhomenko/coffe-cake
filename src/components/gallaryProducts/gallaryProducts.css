@@ -2,25 +2,33 @@
     .gallary-producrs-item{
         width: calc((100% - 4 * 1px) / 2);
     }
+
+    .gallary-products-title{
+        font-size: 28px;
+    }
 }
 
 @media screen and (min-width: 481px) {
     .gallary-producrs-item{
         width: calc((100% - 8 * 1px) / 4);
     }
+
+    .gallary-products-title{
+        font-size: 48px;
+    }
 }
 
 .gallary-container{
-    padding-top: 50px;
     align-items: center;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Marck Script', cursive;
 }
 
 .gallary-products-title{
     text-align: center;
-    color: #fb9333;
+    color: rgb(238, 73, 137);
     margin-top: 0;
 }
 

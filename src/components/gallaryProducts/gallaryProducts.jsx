@@ -12,7 +12,7 @@ import eaghthimg from "../../image/8g-min.jpeg"
 const GallaryProducts = () => {
     return (
         <div className="gallary-container">
-            <h2 className="gallary-products-title">Наші роботи</h2>
+            <h2 className="gallary-products-title">Наші витвори мистецтва</h2>
             <ul className="gallary-products-list">
                 <li className="gallary-producrs-item">
                     

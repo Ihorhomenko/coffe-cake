@@ -6,7 +6,7 @@ import vilyams from "../../image/vilyams-min.jpeg"
 const Adress = () => {
     return (
         <div>
-            <h2 className="adress-title">Наші адреси</h2>
+            <h2 className="adress-title">Місця де можна знайти наші роботи, скуштувати десерти та ароматну каву</h2>
             <ul className="adress-list">
                 <li className="adress-item">             
                     <a href="https://www.google.com/maps/place/%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D0%BE%D1%81%D0%BF.,+58%D0%90,+%D0%9A%D0%B8%D0%B5%D0%B2,+03039/@50.4006296,30.5123382,21z/data=!4m6!3m5!1s0x40d4cf34db96fba5:0x2dd43c5afab1aff0!8m2!3d50.4006793!4d30.5124825!16s%2Fg%2F11c5mgw45_?entry=ttu" target="_blank" rel="noreferrer">

@@ -7,6 +7,10 @@
         width: 360px;
         height: 460px;
     }
+
+    .adress-title{
+        font-size: 28px;
+    }
 }
 
 @media screen and (min-width: 481px) {
@@ -19,11 +23,17 @@
         width: 360px;
         height: 520px;
     }
+
+    .adress-title{
+        font-size: 36px;
+    }
 }
 
 .adress-title{
     text-align: center;
-    color: #fb9333;
+    color: rgb(238, 73, 137);
+    font-family: 'Marck Script', cursive;
+    padding: 0px 15px;
 }
 
 .adress-list{
@@ -44,6 +54,11 @@
     cursor: pointer;
     color: #575757;
 }
+
+.adress-item p{
+    font-family: 'Marck Script', cursive;
+}
+
 
 .adress-img{
     display: block;

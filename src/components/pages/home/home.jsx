@@ -1,7 +1,6 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { NavLink } from "react-router-dom";
 import HeroMacarun from "./heroMacarun/heroMacaruns";
-import Comments from "components/coments/coments";
 import Adress from "components/adress/adress";
 import GallaryProducts from "components/gallaryProducts/gallaryProducts";
 // import cake from "../../image/photo1687287726.jpeg"
@@ -75,7 +74,6 @@ const Hero = () => {
         </SwiperSlide>
       </Swiper>
       <HeroMacarun/>
-      <Comments/>
       <GallaryProducts/>
       <Adress/>
     </>
