@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/coffe-cake/static/css/main.07b88530.css",
-    "main.js": "/coffe-cake/static/js/main.8704a303.js",
+    "main.css": "/coffe-cake/static/css/main.b5b82810.css",
+    "main.js": "/coffe-cake/static/js/main.3a248f95.js",
     "static/media/3g-min.jpeg": "/coffe-cake/static/media/3g-min.5eec53a39dc0492fd6b2.jpeg",
     "static/media/4g-min.jpeg": "/coffe-cake/static/media/4g-min.7eecb714260c296cf5c2.jpeg",
     "static/media/2g-min.jpeg": "/coffe-cake/static/media/2g-min.6bf56c90b29900c8b088.jpeg",
@@ -21,11 +21,11 @@
     "static/media/muskats-min.jpg": "/coffe-cake/static/media/muskats-min.6665fc7096af71cd3fef.jpg",
     "static/media/logo.png": "/coffe-cake/static/media/logo.ea49f7c7cae628817047.png",
     "index.html": "/coffe-cake/index.html",
-    "main.07b88530.css.map": "/coffe-cake/static/css/main.07b88530.css.map",
-    "main.8704a303.js.map": "/coffe-cake/static/js/main.8704a303.js.map"
+    "main.b5b82810.css.map": "/coffe-cake/static/css/main.b5b82810.css.map",
+    "main.3a248f95.js.map": "/coffe-cake/static/js/main.3a248f95.js.map"
   },
   "entrypoints": [
-    "static/css/main.07b88530.css",
-    "static/js/main.8704a303.js"
+    "static/css/main.b5b82810.css",
+    "static/js/main.3a248f95.js"
   ]
 }
