@@ -64,3 +64,14 @@
     color: black;
     cursor: pointer;
 }
+
+.delivery-list{
+    list-style: circle;
+    list-style-position: inside;
+}
+
+.delivey-item {
+    margin-top: 10px;
+}
+
+
